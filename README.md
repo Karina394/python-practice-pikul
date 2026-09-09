@@ -9,3 +9,6 @@ Course: Python programming, semester 1
 - practice3 - development environment
 - practice4 - loops
 - practice5 - functions
+
+Email: karinapikul0@gmail.com
+
